@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.gifer.com/5FBP.gif" align="center" height="" width="600" />
-</div>  
+![5FBP](https://github.com/ailyncodes/ailyncodes/assets/95152597/a2262a56-ade0-46c3-8fdc-cb79a035e0a3)
 
 
 ## **<div align="center">I'm Ailyn.... Full-Stack // Puzzler💫🤠</div>**  
