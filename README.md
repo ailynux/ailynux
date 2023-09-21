@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.makeagif.com/media/6-13-2016/hjhsM8.gif" align="center" height="" width="600" />
+<img src="https://i.gifer.com/5FBP.gif" align="center" height="" width="600" />
 </div>  
-  
+
 
 ## **<div align="center">I'm Ailyn.... Full-Stack // Puzzler💫🤠</div>**  
   
