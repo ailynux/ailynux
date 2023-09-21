@@ -1,9 +1,10 @@
+
 ![5FBP](https://github.com/ailyncodes/ailyncodes/assets/95152597/a2262a56-ade0-46c3-8fdc-cb79a035e0a3)
 
 
 ## **<div align="center">I'm Ailyn.... Full-Stack // Puzzler💫🤠</div>**  
   
-
+<div align="center">
 - 🔭 I’m currently working on blockchain encryption  
   
 
@@ -17,7 +18,7 @@
   
 
 <br/>  
-
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -77,7 +78,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/SaikiTetsu" target="_blank">
+<a href="https://github.com/ailyncodes" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ailyn-diaz-802943225" target="_blank">
@@ -90,7 +91,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikiTetsu&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailyncodes&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
