@@ -4,7 +4,7 @@
 
 ## **<div align="center">I'm Ailyn.... Full-Stack // Puzzler💫🤠</div>**  
   
-<div align="center">
+
 - 🔭 I’m currently working on blockchain encryption  
   
 
@@ -18,7 +18,7 @@
   
 
 <br/>  
-</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
