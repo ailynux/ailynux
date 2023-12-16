@@ -32,7 +32,7 @@
 - 🔭 I’m currently working on my Portfolio :grin:
 - 🌱 I’m currently learning blockchain encryption.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Graduate with honors. 
+- 🥅 Class of 2023 Summa Cum Laude High Honors.
 - 💬 Ask me about anything related to 3D printing ❓:smile:
 - 📬 How to reach me: EMAIL
 - ⚡ Fun fact: I love keyboard Matrix    :raised_hands:
