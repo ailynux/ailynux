@@ -1,15 +1,13 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-
 <p>
-  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; Hello there I'm Ailyn <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
- 
+  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; ℌ𝔢𝔩𝔩𝔬 𝔱𝔥𝔢𝔯𝔢 I'm Ailyn <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
 </p>
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"> <br>
 <a href="mailto:adiaz@ai-lyn.com?subject=HolaAilyn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/ailyncodes" target="_blank">
+<a href="https://github.com/ailynux" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ailyn-diaz-802943225" target="_blank">
@@ -28,14 +26,12 @@
 
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
  
-### I am a Full-Stack Engineer 
-- 🔭 I’m currently working on my Portfolio :grin:
-- 🌱 I’m currently learning blockchain encryption.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 Class of 2023 Summa Cum Laude High Honors.  :smile:
-- 💬 Ask me about anything related to 3D printing ❓
-- 📬 How to reach me: EMAIL
-- ⚡ Fun fact: I love keyboard Matrix    :raised_hands:
+#  ғᴜʟʟ-sᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✌(ツ)
+- 🎓 ℂ𝕝𝕒𝕤𝕤 𝕠𝕗 𝟚𝟘𝟚𝟛 𝕊𝕦𝕞𝕞𝕒 ℂ𝕦𝕞 𝕃𝕒𝕦𝕕𝕖 ℍ𝕚𝕘𝕙 ℍ𝕠𝕟𝕠𝕣𝕤.  🌟 :smile:
+- ╭( ๐_๐)╮ 💬 3𝘿 𝙥𝙧𝙞𝙣𝙩𝙞𝙣𝙜 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 - 𝙖𝙨𝙠 𝙢𝙚 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙞𝙩! ❓
+- ⚡ ƑƲƝ ƑƛƇƬ: Ɩ ԼƠƔЄ ƘЄƳƁƠƛƦƊ MƛƬƦƖҲ     :raised_hands: ʕ •ₒ• ʔ
+- 𝘓𝘦𝘵'𝘴 𝘣𝘶𝘪𝘭𝘥 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨! (◡‿◡✿)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -103,11 +99,8 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailyncodes&hide_border=true&layout=compact"/>
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="ailyncodes's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ailyncodes?cardType=octocat&theme=tokyonight&preferLogin=false" /> </a>
-
-
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact"/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="ailynux's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ailynux?cardType=octocat&theme=tokyonight&preferLogin=false" /> </a>
 </div>  
 
 <br/>  
@@ -120,15 +113,11 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SaikiTetsu&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
+  <h1>+｡:.ﾟTHANKヽ(*´∀)ﾉﾟYOU.:｡+ﾟ</h1>
+</div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/adiazzz" target="_blank" style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
   
+
 <br />
 
 ----
