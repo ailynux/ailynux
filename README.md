@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p>
-  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="100">&nbsp; <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=32CD32&center=true&vCenter=true&width=440&lines=🌸+Hello+there,+I'm+Ailyn+🌼" alt="Hello there, I'm Ailyn"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
+  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="80">&nbsp; <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=32CD32&center=true&vCenter=true&width=440&lines=🌸+Hello+there,+I'm+Ailyn+🌼" alt="Hello there, I'm Ailyn"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
 </p>
 
 
