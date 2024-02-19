@@ -1,8 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p>
-  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp; ℌ𝔢𝔩𝔩𝔬 𝔱𝔥𝔢𝔯𝔢 I'm Ailyn <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
+  <h1 align="center"><b> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="100">&nbsp; <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=32CD32&center=true&vCenter=true&width=440&lines=🌸+Hello+there,+I'm+Ailyn+🌼" alt="Hello there, I'm Ailyn"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="75">&nbsp;</b></h1>
 </p>
+
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"> <br>
@@ -31,6 +32,9 @@
 - ╭( ๐_๐)╮ 💬 3𝘿 𝙥𝙧𝙞𝙣𝙩𝙞𝙣𝙜 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 - 𝙖𝙨𝙠 𝙢𝙚 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙞𝙩! ❓
 - ⚡ ƑƲƝ ƑƛƇƬ: Ɩ ԼƠƔЄ ƘЄƳƁƠƛƦƊ MƛƬƦƖҲ     :raised_hands: ʕ •ₒ• ʔ
 - 𝘓𝘦𝘵'𝘴 𝘣𝘶𝘪𝘭𝘥 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨! (◡‿◡✿)
+  
+<a href="https://www.linkedin.com/in/ailyn-diaz-802943225"> <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF69B4&width=440&lines=Contact+Me+📧" alt="Contact Me" /> </a>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -111,12 +115,10 @@
 </div>  
   
 <br/>  
-
 <div align="center">
-  <h1>+｡:.ﾟTHANKヽ(*´∀)ﾉﾟYOU.:｡+ﾟ</h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Goodbye..+thanks+for+looking!;See+you+in+the+Matrix!✨" alt="Goodbye.. thanks for looking! See you in the Matrix!" />
 </div>
 
-  
 
 <br />
 
