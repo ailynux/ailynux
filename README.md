@@ -27,10 +27,10 @@
 
 <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
  
-#  ғᴜʟʟ-sᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✌(ツ)
-- 🎓 ℂ𝕝𝕒𝕤𝕤 𝕠𝕗 𝟚𝟘𝟚𝟛 𝕊𝕦𝕞𝕞𝕒 ℂ𝕦𝕞 𝕃𝕒𝕦𝕕𝕖 ℍ𝕚𝕘𝕙 ℍ𝕠𝕟𝕠𝕣𝕤.  🌟 :smile:
+### I do ғᴜʟʟ-sᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘment and love it <3 ✌(ツ)
+***
 - ╭( ๐_๐)╮ 💬 3𝘿 𝙥𝙧𝙞𝙣𝙩𝙞𝙣𝙜 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 - 𝙖𝙨𝙠 𝙢𝙚 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙞𝙩! ❓
-- ⚡ ƑƲƝ ƑƛƇƬ: Ɩ ԼƠƔЄ ƘЄƳƁƠƛƦƊ MƛƬƦƖҲ     :raised_hands: ʕ •ₒ• ʔ
+- ⚡ ƑƲƝ ƑƛƇƬ: I love Keyboard MƛƬƦƖҲ     :raised_hands: ʕ •ₒ• ʔ
 - 𝘓𝘦𝘵'𝘴 𝘣𝘶𝘪𝘭𝘥 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨! (◡‿◡✿)
   
 <a href="https://www.linkedin.com/in/ailyn-diaz-802943225"> <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF69B4&width=440&lines=Contact+Me+📧" alt="Contact Me" /> </a>
