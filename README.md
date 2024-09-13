@@ -7,7 +7,8 @@
 
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"> <br>
-<a href="mailto:adiaz@ai-lyn.com?subject=HolaAilyn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://exercism.org/profiles/ailynux"><img src="https://img.shields.io/badge/Exercism-%234B32C3.svg?&style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/></a>&nbsp;
+
 <a href="https://github.com/ailynux" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
@@ -17,25 +18,28 @@
 <p align="center">VISITOR COUNT<br> <img src="https://profile-counter.glitch.me/ailyncodes/count.svg" /> </p>
 </p>
 
-<br>
-
 <p>
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"> 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 </p>
 
-<img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
- 
-### Software Developer✌(ツ)
+<img align="right" height="425px" width="425px" alt="Photo" src="https://github.com/user-attachments/assets/b7f23448-6a56-495f-b702-af32d71954e4"/>
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF0000&width=440&lines=I'm+a+Software+Developer+✌(ツ)" alt="I'm a Software Developer" />
+
 ***
-- ╭( ๐_๐)╮ 💬 3𝘿 𝙥𝙧𝙞𝙣𝙩𝙞𝙣𝙜 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 - 𝙖𝙨𝙠 𝙢𝙚 𝙖𝙣𝙮𝙩𝙝𝙞𝙣𝙜 𝙖𝙗𝙤𝙪𝙩 𝙞𝙩! ❓
-- ⚡ ƑƲƝ ƑƛƇƬ: I love Keyboard MƛƬƦƖҲ     :raised_hands: ʕ •ₒ• ʔ
-- 𝘓𝘦𝘵'𝘴 𝘣𝘶𝘪𝘭𝘥 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨! (◡‿◡✿)
+<img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=24&color=0000FF&width=440&lines=3D+printing+enthusiast!" alt="3D printing enthusiast" />
+
+- **Fun Fact:** I love soldering and making **Keyboard MƛƬƦƖҲ** ʕ•ₒ•ʔ
+- **Full Stack Development** is my favorite area to work in.
+- **I enjoy building IoT devices** using Arduinos and Raspberry Pi's.
+- **Check out** some of the guides I've shared on GitHub.
+- I'm currently seeking out new opportunites!
   
+<img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=24&color=808080&width=440&lines=Let's+build+something+cool+!+◡‿◡✿" alt="Let's build something" />
+
 <a href="https://www.linkedin.com/in/ailyn-diaz-802943225"> <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF69B4&width=440&lines=Contact+Me+📧" alt="Contact Me" /> </a>
-
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -49,63 +53,164 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+ <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" /></a>  
+<a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://astro.build/assets/press/astro-icon-light.svg" alt="Astro" height="50" /></a>   
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="25" /></a>
+
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend Technologies  
+<div align="center">  
+
+<!-- C# -->
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+</a>  
+
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+</a>  
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+</a>  
+
+<!-- Go -->
+<a href="https://go.dev/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+</a>  
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+</a>  
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</a>  
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+</a>  
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+</a>  
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+</a>  
+
+<!-- Bash -->
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+</a>  
+
+<!-- PowerShell -->
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+</a>  
+
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Backend  
+### Platforms & Tools  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" />
+</a>  
+
+<!-- Git -->
+<a href="https://github.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
+</a>  
+
+<!-- Arduino -->
+<a href="https://www.arduino.cc/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50" />
+</a>  
+
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank">
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />
+</a>  
+
+<!-- Android -->
+<a href="https://www.android.com/intl/en_in/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" height="50" />
+</a>  
+
+<!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50" />
+</a>  
+
+<!-- Swift -->
+<a href="https://developer.apple.com/swift/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="50" />
+</a>
+
+<!-- Xcode -->
+<a href="https://developer.apple.com/xcode/" target="_blank">
+  <img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" height="50" />
+</a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Platforms  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-</div>
 
 </td></tr></table>  
 
 <br/>  
 
 
-##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="75">&nbsp; Github Stats 
-<p><img src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" />
-<img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" />
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="100"> Github Stats & Activity
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656950-4ecec37b-f42b-4bd8-8cd5-55fecbe04df6.gif" width="160" />
 </p>
 
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact"/>
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=tokyonight&preferLogin=false"> <img  alt="ailynux's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ailynux?cardType=octocat&theme=tokyonight&preferLogin=false" /> </a>
-</div>  
+  <!-- GitHub Readme Stats -->
+  <a href="https://github-readme-stats.vercel.app/api?username=ailynux&show_icons=true&theme=radical&hide_border=true">
+    <img alt="ailynux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ailynux&show_icons=true&theme=radical&hide_border=true" width="500"/>
+  </a>
+  
+  <!-- Most Used Languages -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact&theme=radical">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact&theme=radical" width="350"/>
+  </a>
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github-profile-trophy.vercel.app/?username=ailynux&theme=radical&no-frame=true&row=1&column=6">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ailynux&theme=radical&no-frame=true&row=1&column=6" width="500"/>
+  </a>
+  
+</div>
 
 <br/>  
 
@@ -115,10 +220,6 @@
 </div>  
   
 <br/>  
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Goodbye..+thanks+for+looking!;See+you+in+the+Matrix!✨" alt="Goodbye.. thanks for looking! See you in the Matrix!" />
-</div>
-
 
 <br />
 
