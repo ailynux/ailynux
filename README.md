@@ -24,7 +24,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 </p>
 
-<img align="right" height="425px" width="425px" alt="Photo" src="https://github.com/user-attachments/assets/b7f23448-6a56-495f-b702-af32d71954e4"/>
+<img align="right" height="225px" width="225px" alt="Photo" src="https://github.com/user-attachments/assets/b7f23448-6a56-495f-b702-af32d71954e4"/>
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF0000&width=440&lines=I'm+a+Software+Developer+✌(ツ)" alt="I'm a Software Developer" />
 
