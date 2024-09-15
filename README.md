@@ -31,8 +31,9 @@
 ***
 <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=24&color=0000FF&width=440&lines=3D+printing+enthusiast!" alt="3D printing enthusiast" />
 
+- *My name is Ailyn Diaz, and I specialize in Fullstack development!*
 - **Fun Fact:** I love soldering and making **Keyboard MƛƬƦƖҲ** ʕ•ₒ•ʔ
-- **Full Stack Development** is my favorite area to work in.
+- **CSS** is one of my favorite areas to work in.
 - **I enjoy building IoT devices** using Arduinos and Raspberry Pi's.
 - **Check out** some of the guides I've shared on GitHub.
 - I'm currently seeking out new opportunites!
@@ -44,7 +45,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## My Skill Set <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="75">&nbsp;
-
+<!--
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -71,48 +72,37 @@
 ### Backend Technologies  
 <div align="center">  
 
-<!-- C# -->
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
 </a>  
 
-<!-- Java -->
 <a href="https://www.java.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 </a>  
 
-<!-- Node.js -->
 <a href="https://nodejs.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 </a>  
 
-
-<!-- Python -->
 <a href="https://www.python.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 </a>  
 
-<!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </a>  
 
-<!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 </a>   
 
-<!-- Docker -->
 <a href="https://www.docker.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </a>  
-
-<!-- Bash -->
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 </a>  
 
-<!-- PowerShell -->
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
 </a>  
@@ -121,47 +111,37 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Platforms & Tools  
 <div align="center">  
 
-<!-- Linux -->
 <a href="https://www.linux.org/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" />
 </a>  
 
-<!-- Git -->
 <a href="https://github.com/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
 </a>  
 
-<!-- Arduino -->
 <a href="https://www.arduino.cc/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="50" />
 </a>  
 
-<!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank">
   <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" />
 </a>  
 
-<!-- Android -->
 <a href="https://www.android.com/intl/en_in/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" height="50" />
 </a>  
 
-<!-- Raspberry Pi -->
 <a href="https://www.raspberrypi.org/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50" />
 </a>  
 
-<!-- Swift -->
 <a href="https://developer.apple.com/swift/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="50" />
 </a>
 
-<!-- Xcode -->
 <a href="https://developer.apple.com/xcode/" target="_blank">
   <img style="margin: 10px" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" height="50" />
 </a>  
@@ -169,6 +149,41 @@
 
 
 </td></tr></table>  
+-->
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="33%" style="padding: 15px;">  
+      <h2>Frontend </h2>
+      <a href="https://github.com/ailynux">
+        <div align="center">  
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,typescript,wordpress,tailwind,js&perline=4" /> 
+        </div>
+      </a>     
+    </td>
+    <td valign="top" width="33%" style="padding: 15px;"> 
+      <h2> Backend </h2>
+      <a href="https://github.com/ailynux">
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=cs,cpp,java,bash,powershell,postgres,python&perline=4" /> 
+        </div>
+      </a>    
+    </td>
+    <td valign="top" width="33%" style="padding: 15px;">   
+      <h2>Others</h2>
+      <a href="https://github.com/ailynux">
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=git,npm,astro,vscode,firebase,vercel,apple,linux,kotlin,raspberrypi,docker,discord,vscodeqt&perline=4" /> 
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
+
 
 <br/>  
 
