@@ -40,7 +40,7 @@
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=24&color=808080&width=440&lines=Let's+build+something+cool+!+◡‿◡✿" alt="Let's build something" />
 
-<a href="https://www.linkedin.com/in/ailyn-diaz-802943225"> <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF69B4&width=440&lines=Contact+Me+📧" alt="Contact Me" /> </a>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <a href="https://www.linkedin.com/in/ailyn-diaz-802943225"> <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=FF69B4&width=440&lines=Contact+Me+📧" alt="Contact Me" /> </a> 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -186,6 +186,13 @@
 
 
 <br/>  
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=ailynux&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ailynux&custom_title=Ailyn's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <br>
+</div>
 
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="100"> Github Stats & Activity
@@ -222,4 +229,5 @@
 <div align="center">
 <img src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif" align="center" height="" width="" />
 </div>  
+
   
