@@ -206,20 +206,6 @@
 </p>
 
 
-<div align="center">
-  <!-- GitHub Readme Stats -->
-  <a href="https://github-readme-stats.vercel.app/api?username=ailynux&show_icons=true&theme=radical&hide_border=true">
-    <img alt="ailynux's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ailynux&show_icons=true&theme=radical&hide_border=true" width="500"/>
-  </a>
-  
-  <!-- Most Used Languages -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact&theme=radical">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact&theme=radical" width="350"/>
-  </a>
-  
-  
-</div>
-
 <br/>  
 
 <div align="center">
