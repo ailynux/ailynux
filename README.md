@@ -217,10 +217,6 @@
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailynux&hide_border=true&layout=compact&theme=radical" width="350"/>
   </a>
   
-  <!-- GitHub Trophies -->
-  <a href="https://github-profile-trophy.vercel.app/?username=ailynux&theme=radical&no-frame=true&row=1&column=6">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ailynux&theme=radical&no-frame=true&row=1&column=6" width="500"/>
-  </a>
   
 </div>
 
