@@ -26,7 +26,7 @@
 
 <img align="right" height="225px" width="225px" alt="Photo" src="https://github.com/user-attachments/assets/b7f23448-6a56-495f-b702-af32d71954e4"/>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&width=440&lines=I'm+a+Software+Developer" alt="I'm a Software Developer" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&width=440&lines=I'm+a+Software+Developer" alt="I'm a Software Engineer" />
 
 
 ***
