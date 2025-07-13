@@ -9,13 +9,12 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"> <br>
 <a href="https://exercism.org/profiles/ailynux"><img src="https://img.shields.io/badge/Exercism-%234B32C3.svg?&style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"/></a>&nbsp;
 
-<a href="https://ailynux.netlify.app/" target="_blank">
+<a href="https://ailynux.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/website-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ailyndiaz01" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<p align="center">VISITOR COUNT<br> <img src="https://profile-counter.glitch.me/ailyncodes/count.svg" /> </p>
 </p>
 
 <p>
@@ -28,29 +27,23 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=808080&width=440&lines=I'm+a+Software+Engineer" alt="I'm a Software Engineer" />
 
-
 ***
-
-
 - *My name is Ailyn Diaz, and I specialize in Fullstack development!*
 - **Fun Fact:** I love soldering and making **Keyboard MƛƬƦƖҲ** ʕ•ₒ•ʔ
-- **I enjoy building IoT devices** using Arduinos and Raspberry Pi's.
+- **I enjoy building IoT devices** using Arduinos and Raspberry Pi's and too many other things.
 - **Check out** some of the guides I've shared on GitHub.
 
-  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ## My Skill Set <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="75">&nbsp;
-
 <div align="center">
-
 <table>
   <tr>
     <td valign="top" width="33%" style="padding: 15px;">  
       <h2>Frontend </h2>
       <a href="https://github.com/ailynux">
         <div align="center">  
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,typescript,wordpress,tailwind,js&perline=4" /> 
+          <img src="https://skillicons.dev/icons?i=html,css,react,typescript,js,mui,tailwind&perline=4" /> 
         </div>
       </a>     
     </td>
@@ -58,15 +51,23 @@
       <h2> Backend </h2>
       <a href="https://github.com/ailynux">
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=cs,cpp,java,bash,powershell,postgres,python&perline=4" /> 
+          <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,azure,nodejs,mysql,python&perline=4" /> 
         </div>
       </a>    
     </td>
     <td valign="top" width="33%" style="padding: 15px;">   
-      <h2>Others</h2>
+      <h2>DevOps & Tools</h2>
       <a href="https://github.com/ailynux">
         <div align="center">
-          <img src="https://skillicons.dev/icons?i=git,npm,astro,vscode,firebase,vercel,apple,linux,kotlin,raspberrypi,docker,discord,vscodeqt&perline=4" /> 
+          <img src="https://skillicons.dev/icons?i=bash,powershell,git,docker,npm,vim,vscode,raspberrypi,windows,apple,linux,&perline=4" /> 
+        </div>
+      </a>
+    </td>
+    <td valign="top" width="25%" style="padding: 15px;">   
+      <h2>Mobile</h2>
+      <a href="https://github.com/ailynux">
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,reactnative,swift&perline=4" />
         </div>
       </a>
     </td>
